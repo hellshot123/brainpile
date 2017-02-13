@@ -1,3 +1,5 @@
+//fuck you
+
 #include <iostream>
 #include <fstream>
 #include <sys/stat.h>
